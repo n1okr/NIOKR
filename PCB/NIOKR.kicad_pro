@@ -487,8 +487,8 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
-      "step": "export/NIOKR.stl",
+      "specctra_dsn": "NIOKR.dsn",
+      "step": "export/NIOKR.step",
       "svg": "",
       "vrml": ""
     },

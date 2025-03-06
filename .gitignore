@@ -1,3 +1,12 @@
 # Ignore all .DS_Store files anywhere in the repository
 **/.DS_Store
 
+# Ignore all backup files and folders
+**/*backup*
+Houdini/backup/
+NIOKR-backups/
+
+# Ignore KiCad autosave and lock files
+**/*_autosave*
+**/*.lck  
+**/*.3dmbak
