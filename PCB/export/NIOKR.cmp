@@ -1,0 +1,371 @@
+Cmp-Mod V01 Created by PcbNew   date = 2025-03-11T11:32:21+0300
+
+BeginCmp
+TimeStamp = a9129720-4d60-4247-9652-1277443e5ab9
+Path = /eb0261ae-0ffc-4826-9f81-79ac3a4ba0a8
+Reference = U1;
+ValeurCmp = XIAO-nRF52840-SMD;
+IdModule  = Seeed Studio XIAO Series Library:XIAO-nRF52840-SMD-custom;
+EndCmp
+
+BeginCmp
+TimeStamp = 7469f971-2b98-489a-8973-d419c94cc611
+Path = /bd7515e5-5ac2-4264-8e23-6966f37e4c0a
+Reference = L-D9;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 25fde4bd-34b6-469b-8f84-350c6bce3da1
+Path = /f2e56d9c-9f6b-4de5-9a36-51eae490354c
+Reference = L-S14;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f613c1e-90e2-4f68-bcd6-8529e6e3374f
+Path = /28fd1cf4-cf29-40d7-8495-6689ccc45d32
+Reference = L-S4;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 336ea5b8-6e01-4066-9999-d1f2b99c9ce3
+Path = /49da6a81-65aa-41b2-a374-6eca39688e7a
+Reference = L-BAT+1;
+ValeurCmp = L-BAT+;
+IdModule  = TOTEMlib:BatteryPad;
+EndCmp
+
+BeginCmp
+TimeStamp = 35cd638f-e16c-4533-989e-1f25c95d80a6
+Path = /460f6b73-94e8-4a16-ad2a-cdcce69f03dc
+Reference = L-S9;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 3dbc4b77-3ab1-49ad-b702-aa06d7900b8d
+Path = /421dbcaa-a7de-40ef-afd3-41f545e7ace3
+Reference = L-GND1;
+ValeurCmp = L-GND;
+IdModule  = TOTEMlib:BatteryPad;
+EndCmp
+
+BeginCmp
+TimeStamp = 427468ed-be0f-4fa1-b2d3-adb24874349e
+Path = /0a625cce-6f2b-4298-a0d3-94cecc6eed2b
+Reference = L-S10;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 44531d0b-3483-4532-abc2-2a184596ad85
+Path = /ff9e797a-869c-4780-8b09-88a9b5cf1749
+Reference = L-S7;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 459af038-3d20-45da-bc05-403676a40a10
+Path = /3c0ed24d-2307-4d2f-99d1-bf529d0f4bff
+Reference = L-S16;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 503b386f-fb66-45ad-8d6f-f7379ef71d19
+Path = /e82034e0-4bef-46b0-96a8-b07dce447349
+Reference = L-S6;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 66647361-45b0-4aa2-aca6-7f853c7c566a
+Path = /c80c4ce2-29c5-4ccc-ac82-37dc78afafa6
+Reference = L-S12;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a3f4778-42a5-43a0-94f9-27025f5f19e9
+Path = /8527f116-12fc-4f76-8df9-a781f10b4984
+Reference = L-S1;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 6d99b6c9-492e-4e95-973d-da593eb45bd2
+Path = /9415472a-0be5-4271-95bf-75c01050be0d
+Reference = L-S19;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 768933bc-e4b5-47d2-a59e-a11de33a9cd5
+Path = /1b3746d6-a311-4a05-8e93-8ef858072fb2
+Reference = L-S15;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 884ad578-40a7-4c38-a482-4582aa196969
+Path = /04c471a8-53ac-4d1c-a015-983672021ae7
+Reference = L-S17;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 9b89b7ac-fdab-4750-a6d9-f3778c4b7f0f
+Path = /12208d25-0f87-4cd4-9baa-8969a134e35f
+Reference = L-PSW1;
+ValeurCmp = Power;
+IdModule  = TOTEMlib:MSK12C02;
+EndCmp
+
+BeginCmp
+TimeStamp = a13f217c-9dcc-4a60-a12f-d70856e8dc13
+Path = /cc6c9c12-5e1f-4519-8ce9-6e7b5f7fa6a5
+Reference = L-S0;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = a6231fec-26be-4ef8-83b7-f4df70b89ec5
+Path = /777833e7-29b9-4383-b001-de33a9220c0d
+Reference = L-S8;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = a785b89b-1065-4afc-87dc-e29240ebba46
+Path = /04cf29eb-ce0f-4f8a-b086-e130f6e2c1d4
+Reference = L-S2;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = c5fd52f9-b760-411c-b704-be7c3843f0e4
+Path = /fab7c253-55bb-466e-b6f7-961d87a476a0
+Reference = L-S3;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = dc9bf46e-7dfd-49c0-824b-98b8ddf973aa
+Path = /269d5b53-f7ef-4ce0-8ef2-8360343f0ad1
+Reference = L-S20;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = ebcf0400-121b-481b-a6ff-e99692170cf6
+Path = /f86eb87a-92a2-48c8-8bdc-6aab991451fa
+Reference = L-S5;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = ee796770-3706-469f-ad44-ef5515942925
+Path = /84074fdb-09f1-4556-8244-9c9dae552046
+Reference = L-S13;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = f71fcf2e-cb0c-4efe-acf6-eb016d24243c
+Path = /f988e3c0-d026-4595-a363-76047bbae693
+Reference = L-S18;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = faf8fd81-c340-4e49-ae54-69ab95b4d1ca
+Path = /c2519fb8-9a0b-4f2d-a3bb-bdb0c552ff3e
+Reference = L-S11;
+ValeurCmp = Keyswitch;
+IdModule  = Hotswap:Hotswap_Choc_V1V2_klp_saddle;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bd94b17-ba83-4547-9913-2ee58df217d8
+Path = /e74cbe69-17d5-42b6-93ad-f3561c7af4a5
+Reference = L-D11;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 18037f45-0aa7-4b03-a4bc-f090a55802d8
+Path = /4995398e-71b3-4d4a-a314-af0031520ed7
+Reference = L-D6;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 27a4c825-6b07-41c6-b7c4-56d7ffe79a5f
+Path = /8d635c2d-c791-4cb6-9f88-714dca3ba268
+Reference = L-D8;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 32ccea99-204e-498a-a875-90c5f48fd112
+Path = /dee0d4b1-3a9b-48e6-8c9b-49db26a7c5c2
+Reference = L-D7;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d9d08ce-55f8-446b-ad31-42ddcdc214d0
+Path = /28e5b4b0-3206-4c21-b0fc-47e3b4386c81
+Reference = L-D19;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ea16134-55d6-4c75-bd12-2342e8ec0fe2
+Path = /93db0f5f-10e4-4551-920b-64a06592f53b
+Reference = L-D4;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 4bd2ed63-655f-4288-9b4b-3b18b947baa1
+Path = /b91352d9-7203-4fa8-b991-828f283405eb
+Reference = L-D1;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 787b5243-0d93-412b-b066-465af34538d5
+Path = /70dd3609-806e-4b68-bc89-f5508c17c04c
+Reference = L-D3;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 8492ae09-1d25-4684-9085-feff491c2eb4
+Path = /26bf9fc4-1b43-45e0-98de-f95dad2cb61b
+Reference = L-D12;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 86e3f68d-0208-432f-85ca-ea92a02ce812
+Path = /50f41469-451a-44fb-8ef4-c95f30820b5d
+Reference = L-D20;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 928089ed-fd65-4dd9-80d5-04c9a7b51fac
+Path = /cde51972-886c-4fca-bf2a-a0db0cc61b31
+Reference = L-D17;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 9958ecc1-b0a6-4614-b203-f4dedb564180
+Path = /dddfc60e-5682-4773-ab0e-d53fe4fd1fb6
+Reference = L-D14;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 9c510fb1-62c0-4d98-a268-e8fc093c3723
+Path = /607b760b-b637-4809-b41f-b9ea3adf360a
+Reference = L-D15;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = addadc1b-b339-4e1b-995f-f1dc7ecac5ca
+Path = /4d9fbd21-1310-437a-ba67-dc0fb996eebc
+Reference = L-D2;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = befc34aa-b5a7-443a-b4fb-3d2353a860b4
+Path = /2954bb9f-829d-4f85-95eb-8ea6bf900732
+Reference = L-D16;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = c06d2eda-a438-4f0e-ab9f-db1ce97ae5d1
+Path = /7fb43e9c-281f-491d-aed9-3a8685eebbb8
+Reference = L-D13;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = cf624500-0ac0-4739-b19d-b77d914a13bd
+Path = /30d140f5-52e9-4e09-a98a-16b8f2a29e9d
+Reference = L-D18;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = d69e626e-5ede-4059-acce-0d8aad574a56
+Path = /1d012783-1108-4c76-9c6f-723f49458dd8
+Reference = L-D0;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = db701ef3-480c-4bfb-81be-4975f47d2058
+Path = /31c43abe-5741-4b9d-9e6d-f93a09f0a250
+Reference = L-D10;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = f8f5a938-e349-4fd6-ad78-1fea2ff3c11a
+Path = /ff49e1bf-01d9-41c8-bb7a-fd70b7003d59
+Reference = L-D5;
+ValeurCmp = Diode;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+EndListe

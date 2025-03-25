@@ -1,0 +1,329 @@
+(session "C:\Users\user\Desktop\pcbprod\export\NIOKR-prod-offset.ses"
+(base_design ".\NIOKR-prod-offset.dsn")
+      (placement 
+         (resolution mm 100000)
+         (component "NII:mousebites_0.6-0.4-topor"
+            (place "mbites3" 23000000 -12493940 front 0.00)
+            (place "mbites4" 23000000 -14293940 front 0.00)
+            (place "mbites2" 18500000 -14293940 front 0.00)
+            (place "mbites1" 18500000 -12493940 front 0.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor"
+            (place "R-S20" 22016690 -17656090 front 9.00)
+            (place "L-S13" 10339260 -16134150 front 9.00)
+            (place "L-S12" 8512040 -16423550 front 9.00)
+            (place "L-S7" 10049860 -14306930 front 9.00)
+            (place "L-S6" 8222630 -14596330 front 9.00)
+            (place "L-S1" 9760450 -12479700 front 9.00)
+            (place "L-S0" 7933230 -12769110 front 9.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::1"
+            (place "R-S19" 24000000 -17500000 front 0.00)
+            (place "R-S18" 25850000 -17500000 front 0.00)
+            (place "R-S17" 24000000 -15000000 front 0.00)
+            (place "R-S16" 25850000 -15000000 front 0.00)
+            (place "R-S11" 24000000 -13150000 front 0.00)
+            (place "R-S10" 25850000 -13150000 front 0.00)
+            (place "R-S5" 24000000 -11300000 front 0.00)
+            (place "R-S4" 25850000 -11300000 front 0.00)
+            (place "L-S19" 17500000 -17500000 front 0.00)
+            (place "L-S18" 15650000 -17500000 front 0.00)
+            (place "L-S17" 17500000 -15000000 front 0.00)
+            (place "L-S16" 15650000 -15000000 front 0.00)
+            (place "L-S11" 17500000 -13150000 front 0.00)
+            (place "L-S10" 15650000 -13150000 front 0.00)
+            (place "L-S5" 17500000 -11300000 front 0.00)
+            (place "L-S4" 15650000 -11300000 front 0.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::2"
+            (place "R-S15" 27723500 -13693080 front 357.00)
+            (place "R-S9" 27820320 -11845620 front 357.00)
+            (place "R-S3" 27917140 -9998150 front 357.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::3"
+            (place "R-S14" 29545580 -14376250 front 354.00)
+            (place "R-S8" 29738960 -12536390 front 354.00)
+            (place "R-S2" 29932330 -10696520 front 354.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::4"
+            (place "R-S13" 31160740 -16134150 front 351.00)
+            (place "R-S12" 32987960 -16423550 front 351.00)
+            (place "R-S7" 31450140 -14306930 front 351.00)
+            (place "R-S6" 33277370 -14596330 front 351.00)
+            (place "R-S1" 31739550 -12479700 front 351.00)
+            (place "R-S0" 33566770 -12769110 front 351.00)
+            (place "L-S20" 19483310 -17656090 front 351.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::5"
+            (place "L-S15" 13776500 -13693080 front 3.00)
+            (place "L-S9" 13679680 -11845620 front 3.00)
+            (place "L-S3" 13582860 -9998150 front 3.00)
+         )
+         (component "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor::6"
+            (place "L-S14" 11954420 -14376250 front 6.00)
+            (place "L-S8" 11761040 -12536390 front 6.00)
+            (place "L-S2" 11567670 -10696520 front 6.00)
+         )
+         (component "NII:Diode_SOD123"
+            (place "R-D16" 25150000 -14580000 back 270.00)
+            (place "L-D11" 16800000 -12730000 back 270.00)
+            (place "L-D6" 7465550 -14291010 back 279.00)
+            (place "R-D13" 30535060 -15609820 back 261.00)
+            (place "R-D15" 27046440 -13237020 back 267.00)
+            (place "L-D8" 11020980 -12191860 back 276.00)
+            (place "R-D17" 23300000 -14580000 back 270.00)
+            (place "L-D7" 9292770 -14001600 back 279.00)
+            (place "R-D1" 31113870 -11955370 back 261.00)
+            (place "L-D19" 16800000 -17080000 back 270.00)
+            (place "L-D4" 14950000 -10880000 back 270.00)
+            (place "L-D1" 9003370 -12174380 back 279.00)
+            (place "R-D20" 21259600 -17350770 back 279.00)
+            (place "R-D9" 27143260 -11389560 back 267.00)
+            (place "R-D14" 28893320 -13885380 back 264.00)
+            (place "R-D03" 27240090 -9542090 back 267.00)
+            (place "R-D19" 23300000 -17080000 back 270.00)
+            (place "R-D18" 25150000 -17080000 back 270.00)
+            (place "L-D9" 12958660 -11462830 back 273.00)
+            (place "L-D3" 12861830 -9615360 back 273.00)
+            (place "L-D12" 7754950 -16118230 back 279.00)
+            (place "L-D20" 18857630 -17131760 back 261.00)
+            (place "R-D5" 23300000 -10880000 back 270.00)
+            (place "L-D17" 16800000 -14580000 back 270.00)
+            (place "L-D14" 11214350 -14031720 back 276.00)
+            (place "R-D11" 23300000 -12730000 back 270.00)
+            (place "L-D15" 13055480 -13310290 back 273.00)
+            (place "R-D2" 29280070 -10205650 back 264.00)
+            (place "R-D8" 29086690 -12045520 back 264.00)
+            (place "L-D2" 10827600 -10351990 back 276.00)
+            (place "R-D4" 25150000 -10880000 back 270.00)
+            (place "R-D7" 30824460 -13782590 back 261.00)
+            (place "L-D16" 14950000 -14580000 back 270.00)
+            (place "L-D13" 9582180 -15828820 back 279.00)
+            (place "R-D12" 32362280 -15899220 back 261.00)
+            (place "L-D18" 14950000 -17080000 back 270.00)
+            (place "R-D10" 25150000 -12730000 back 270.00)
+            (place "L-D0" 7176140 -12463780 back 279.00)
+            (place "L-D10" 14950000 -12730000 back 270.00)
+            (place "R-D0" 32941090 -12244770 back 261.00)
+            (place "R-D6" 32651690 -14072000 back 261.00)
+            (place "L-D5" 16800000 -10880000 back 270.00)
+         )
+         (component "NII:XIAO-nRF52840-cutout"
+            (place "U1" 13072100 -17301370 back 180.00)
+            (place "U2" 28427900 -17301370 back 180.00)
+         )
+         (component "NII:BatteryPad"
+            (place "L-GND1" 13981100 -14852980 front 0.00)
+            (place "R-BAT+1" 28118900 -14862080 front 0.00)
+            (place "L-BAT+2" 11763100 -17301370 front 0.00)
+            (place "R-BAT+2" 27118900 -17301370 front 0.00)
+            (place "L-BAT+1" 13381100 -14852980 front 0.00)
+            (place "R-GND1" 27518900 -14862080 front 0.00)
+         )
+         (component "NII:MSK12C02"
+            (place "L-PSW1" 7847350 -17599680 front 9.00)
+            (place "R-PSW1" 33479620 -18365140 front 171.00)
+         )
+      )
+      (routes
+         (resolution mm 100000)
+         (library_out
+            (padstack "Via[0-1]_600:300_um"
+               (shape (circ signal 60000 0 0))
+            )
+         )
+         (network_out
+            (net "Net-(L-D0-A)"
+            )
+            (net "L-ROW0"
+            (via "Via[0-1]_600:300_um" 13034670 -9729860 (net "L-ROW0"))
+            (via "Via[0-1]_600:300_um" 14875120 -10533130 (net "L-ROW0"))
+            )
+            (net "Net-(L-D1-A)"
+            )
+            (net "Net-(L-D2-A)"
+            )
+            (net "Net-(L-D3-A)"
+            )
+            (net "Net-(L-D4-A)"
+            )
+            (net "Net-(L-D5-A)"
+            )
+            (net "L-ROW1"
+            (via "Via[0-1]_600:300_um" 16485050 -13145400 (net "L-ROW1"))
+            (via "Via[0-1]_600:300_um" 10994110 -12537300 (net "L-ROW1"))
+            (via "Via[0-1]_600:300_um" 8669290 -13922620 (net "L-ROW1"))
+            (via "Via[0-1]_600:300_um" 15088300 -12778930 (net "L-ROW1"))
+            (via "Via[0-1]_600:300_um" 9375150 -13993810 (net "L-ROW1"))
+            (via "Via[0-1]_600:300_um" 13125960 -11694230 (net "L-ROW1"))
+            )
+            (net "Net-(L-D6-A)"
+            )
+            (net "Net-(L-D7-A)"
+            )
+            (net "Net-(L-D8-A)"
+            )
+            (net "Net-(L-D9-A)"
+            )
+            (net "Net-(L-D10-A)"
+            )
+            (net "Net-(L-D11-A)"
+            )
+            (net "Net-(L-D12-A)"
+            )
+            (net "L-ROW2"
+            (via "Via[0-1]_600:300_um" 16645040 -14799060 (net "L-ROW2"))
+            (via "Via[0-1]_600:300_um" 14443850 -15095430 (net "L-ROW2"))
+            (via "Via[0-1]_600:300_um" 15104120 -14802500 (net "L-ROW2"))
+            )
+            (net "Net-(L-D13-A)"
+            )
+            (net "Net-(L-D14-A)"
+            )
+            (net "Net-(L-D15-A)"
+            )
+            (net "Net-(L-D16-A)"
+            )
+            (net "Net-(L-D17-A)"
+            )
+            (net "Net-(L-D18-A)"
+            )
+            (net "L-ROW3"
+            (via "Via[0-1]_600:300_um" 11614970 -17459920 (net "L-ROW3"))
+            )
+            (net "Net-(L-D19-A)"
+            )
+            (net "Net-(L-D20-A)"
+            )
+            (net "L-COL0"
+            (via "Via[0-1]_600:300_um" 14088860 -15494610 (net "L-COL0"))
+            )
+            (net "L-COL5"
+            )
+            (net "unconnected-(U1-5V-Pad14)"
+            )
+            (net "L-COL1"
+            (via "Via[0-1]_600:300_um" 14003650 -15692810 (net "L-COL1"))
+            )
+            (net "L-BAT+"
+            )
+            (net "L-COL4"
+            (via "Via[0-1]_600:300_um" 14502580 -14449160 (net "L-COL4"))
+            )
+            (net "unconnected-(U1-P0.05_A5_D5_SCL-Pad6)"
+            )
+            (net "L-COL2"
+            (via "Via[0-1]_600:300_um" 14216060 -15729160 (net "L-COL2"))
+            )
+            (net "L-VBAT"
+            )
+            (net "L-COL3"
+            (via "Via[0-1]_600:300_um" 13472030 -15953550 (net "L-COL3"))
+            )
+            (net "unconnected-(L-PSW1-A-Pad1)"
+            )
+            (net "L-GND"
+            )
+            (net "unconnected-(U1-P1.11_D6_TX-Pad7)"
+            )
+            (net "R-VBAT"
+            )
+            (net "R-BAT+"
+            )
+            (net "R-GND"
+            (via "Via[0-1]_600:300_um" 28220660 -15807220 (net "R-GND"))
+            )
+            (net "unconnected-(R-PSW1-A-Pad1)"
+            )
+            (net "Net-(R-D1-A)"
+            )
+            (net "R-COL1"
+            (via "Via[0-1]_600:300_um" 31702340 -15364010 (net "R-COL1"))
+            (via "Via[0-1]_600:300_um" 31883910 -15693030 (net "R-COL1"))
+            )
+            (net "R-COL2"
+            )
+            (net "Net-(R-D2-A)"
+            )
+            (net "Net-(R-D03-A)"
+            )
+            (net "R-COL3"
+            (via "Via[0-1]_600:300_um" 28436130 -15834050 (net "R-COL3"))
+            )
+            (net "Net-(R-D4-A)"
+            )
+            (net "R-COL4"
+            (via "Via[0-1]_600:300_um" 27784890 -15801040 (net "R-COL4"))
+            )
+            (net "R-COL5"
+            (via "Via[0-1]_600:300_um" 27460540 -15672690 (net "R-COL5"))
+            )
+            (net "Net-(R-D5-A)"
+            )
+            (net "Net-(R-D0-A)"
+            )
+            (net "R-ROW0"
+            (via "Via[0-1]_600:300_um" 27510750 -15449110 (net "R-ROW0"))
+            (via "Via[0-1]_600:300_um" 28987680 -10797970 (net "R-ROW0"))
+            (via "Via[0-1]_600:300_um" 30933940 -11730910 (net "R-ROW0"))
+            (via "Via[0-1]_600:300_um" 27963950 -10789170 (net "R-ROW0"))
+            )
+            (net "R-ROW1"
+            (via "Via[0-1]_600:300_um" 32395270 -13846700 (net "R-ROW1"))
+            (via "Via[0-1]_600:300_um" 30473380 -13715720 (net "R-ROW1"))
+            (via "Via[0-1]_600:300_um" 24638130 -13309420 (net "R-ROW1"))
+            (via "Via[0-1]_600:300_um" 29040650 -12382650 (net "R-ROW1"))
+            (via "Via[0-1]_600:300_um" 25112500 -13069120 (net "R-ROW1"))
+            )
+            (net "Net-(R-D6-A)"
+            )
+            (net "Net-(R-D7-A)"
+            )
+            (net "Net-(R-D8-A)"
+            )
+            (net "Net-(R-D9-A)"
+            )
+            (net "Net-(R-D10-A)"
+            )
+            (net "Net-(R-D11-A)"
+            )
+            (net "Net-(R-D12-A)"
+            )
+            (net "R-ROW2"
+            (via "Via[0-1]_600:300_um" 30524720 -15031850 (net "R-ROW2"))
+            (via "Via[0-1]_600:300_um" 24638150 -15159400 (net "R-ROW2"))
+            (via "Via[0-1]_600:300_um" 28716790 -14090550 (net "R-ROW2"))
+            (via "Via[0-1]_600:300_um" 25112510 -14919120 (net "R-ROW2"))
+            (via "Via[0-1]_600:300_um" 27010210 -13794390 (net "R-ROW2"))
+            )
+            (net "Net-(R-D13-A)"
+            )
+            (net "Net-(R-D14-A)"
+            )
+            (net "Net-(R-D15-A)"
+            )
+            (net "Net-(R-D16-A)"
+            )
+            (net "Net-(R-D17-A)"
+            )
+            (net "Net-(R-D18-A)"
+            )
+            (net "R-ROW3"
+            (via "Via[0-1]_600:300_um" 27589730 -15668330 (net "R-ROW3"))
+            )
+            (net "Net-(R-D19-A)"
+            )
+            (net "Net-(R-D20-A)"
+            )
+            (net "R-COL0"
+            (via "Via[0-1]_600:300_um" 33573580 -15533230 (net "R-COL0"))
+            )
+            (net "unconnected-(U2-P1.11_D6_TX-Pad7)"
+            )
+            (net "unconnected-(U2-P0.05_A5_D5_SCL-Pad6)"
+            )
+            (net "unconnected-(U2-5V-Pad14)"
+            )
+         )
+      )
+   )

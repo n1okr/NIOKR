@@ -1,0 +1,45 @@
+signal,pin_count,components
+Net-(L-D0-A),2,"L-S0:2, L-D0:2"
+L-ROW0,7,"U1:7, L-D4:1, L-D1:1, L-D3:1, L-D2:1, L-D0:1, L-D5:1"
+Net-(L-D1-A),2,"L-S1:2, L-D1:2"
+Net-(L-D2-A),2,"L-S2:2, L-D2:2"
+Net-(L-D3-A),2,"L-S3:2, L-D3:2"
+Net-(L-D4-A),2,"L-S4:2, L-D4:2"
+Net-(L-D5-A),2,"L-S5:2, L-D5:2"
+L-ROW1,7,"U1:6, L-D11:1, L-D6:1, L-D8:1, L-D7:1, L-D9:1, L-D10:1"
+Net-(L-D6-A),2,"L-S6:2, L-D6:2"
+Net-(L-D7-A),2,"L-S7:2, L-D7:2"
+Net-(L-D8-A),2,"L-S8:2, L-D8:2"
+Net-(L-D9-A),2,"L-S9:2, L-D9:2"
+Net-(L-D10-A),2,"L-S10:2, L-D10:2"
+Net-(L-D11-A),2,"L-S11:2, L-D11:2"
+Net-(L-D12-A),2,"L-S12:2, L-D12:2"
+L-ROW2,7,"U1:5, L-D12:1, L-D17:1, L-D14:1, L-D15:1, L-D16:1, L-D13:1"
+Net-(L-D13-A),2,"L-S13:2, L-D13:2"
+Net-(L-D14-A),2,"L-S14:2, L-D14:2"
+Net-(L-D15-A),2,"L-S15:2, L-D15:2"
+Net-(L-D16-A),2,"L-S16:2, L-D16:2"
+Net-(L-D17-A),2,"L-S17:2, L-D17:2"
+Net-(L-D18-A),2,"L-S18:2, L-D18:2"
+L-ROW3,4,"U1:4, L-D19:1, L-D20:1, L-D18:1"
+Net-(L-D19-A),2,"L-S19:2, L-D19:2"
+Net-(L-D20-A),2,"L-S20:2, L-D20:2"
+L-COL0,4,"L-S6:1, U1:11, L-S12:1, L-S0:1"
+unconnected-(U1-5V-Pad14),1,U1:14
+unconnected-(U1-P1.12_D7_RX-Pad8),1,U1:8
+L-COL5,5,"U1:1, L-S17:1, L-S20:1, L-S5:1, L-S11:1"
+unconnected-(U1-3V3-Pad12),1,U1:12
+unconnected-(U1-PA31_SWDIO-Pad19),1,U1:19
+unconnected-(U1-NFC1-Pad17),1,U1:17
+unconnected-(U1-PA30_SWCLK-Pad20),1,U1:20
+L-COL1,4,"L-S7:1, U1:10, L-S1:1, L-S13:1"
+L-BAT+,2,"U1:15, L-PSW1:2"
+L-COL4,5,"L-S4:1, L-S10:1, L-S16:1, U1:2, L-S19:1"
+unconnected-(U1-NFC2-Pad18),1,U1:18
+unconnected-(U1-GND-Pad22),1,U1:22
+unconnected-(U1-RESET-Pad21),1,U1:21
+L-COL2,4,"L-S14:1, U1:9, L-S8:1, L-S2:1"
+L-VBAT,2,"L-BAT+1:1, L-PSW1:3"
+L-COL3,5,"L-S9:1, U1:3, L-S15:1, L-S3:1, L-S18:1"
+unconnected-(L-PSW1-A-Pad1),1,L-PSW1:1
+L-GND,3,"L-GND1:1, U1:13, U1:16"

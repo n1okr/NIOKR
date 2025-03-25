@@ -7,7 +7,7 @@
 		(at 0 -1.778 0)
 		(layer "Dwgs.User")
 		(hide yes)
-		(uuid "fa8722c0-abb0-44e6-91fd-0168b936605a")
+		(uuid "7257c66c-3be3-450c-89ef-56ce0fc418fc")
 		(effects
 			(font
 				(size 1 1)
@@ -18,7 +18,7 @@
 	(property "Value" "D2"
 		(at 0 2.05 0)
 		(layer "F.SilkS")
-		(uuid "550654ac-04bd-4e1c-8007-c56f5f286a8e")
+		(uuid "e07b8d52-b189-446b-837c-77badfecc564")
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -30,7 +30,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "57146ae4-c0e0-4997-aab5-71e3e675be6e")
+		(uuid "1885eaef-b7b2-4f87-8d7e-d985381bf15e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "08874bd4-e704-48e3-bce8-295b3ab07374")
+		(uuid "877d48b9-8502-41c5-896b-bb5a30874d84")
 		(effects
 			(font
 				(size 1.27 1.27)

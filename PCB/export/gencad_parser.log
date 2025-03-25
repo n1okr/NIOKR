@@ -1,0 +1,72 @@
+2025-03-09 14:05:41,073 - GencadParser - INFO - Starting GENCAD parser for file: .\NIOKR2.cad
+2025-03-09 14:05:41,074 - GencadParser - INFO - Using units: INCH
+2025-03-09 14:05:41,079 - GencadParser - INFO - Parsed board outline with 1170 points
+2025-03-09 14:05:41,080 - GencadParser - INFO - Parsed 17 shapes
+2025-03-09 14:05:41,084 - GencadParser - INFO - Parsed 46 components
+2025-03-09 14:05:41,085 - GencadParser - INFO - Parsed 44 signals
+2025-03-09 14:05:41,087 - GencadParser - INFO - Swapped coordinates for diode L-D11: Pin 1 now at (6.3308594, -5.92804), Pin 2 now at (6.4607806, -5.92804)
+2025-03-09 14:05:41,088 - GencadParser - INFO - Swapped coordinates for diode L-D6: Pin 1 now at (2.7170020767096927, -6.198890827218065), Pin 2 now at (2.6966779232903075, -6.070569172781935)
+2025-03-09 14:05:41,098 - GencadParser - INFO - Swapped coordinates for diode L-D8: Pin 1 now at (4.217570231690945, -5.40799473903626), Pin 2 now at (4.203989768309055, -5.2787852609637405)
+2025-03-09 14:05:41,098 - GencadParser - INFO - Swapped coordinates for diode L-D7: Pin 1 now at (3.4866920767096925, -6.070940827218065), Pin 2 now at (3.4663679232903073, -5.942619172781935)
+2025-03-09 14:05:41,098 - GencadParser - INFO - Swapped coordinates for diode L-D19: Pin 1 now at (6.4588106, -6.89457), Pin 2 now at (6.3288893999999996, -6.89457)
+2025-03-09 14:05:41,099 - GencadParser - INFO - Swapped coordinates for diode L-D4: Pin 1 now at (5.80723, -5.1918106), Pin 2 now at (5.80723, -5.0618894)
+2025-03-09 14:05:41,099 - GencadParser - INFO - Swapped coordinates for diode L-D1: Pin 1 now at (3.3689020767096927, -5.306360827218065), Pin 2 now at (3.3485779232903075, -5.1780391727819355)
+2025-03-09 14:05:41,099 - GencadParser - INFO - Swapped coordinates for diode L-D9: Pin 1 now at (5.01983, -5.3985106), Pin 2 now at (5.01983, -5.2685894)
+2025-03-09 14:05:41,099 - GencadParser - INFO - Swapped coordinates for diode L-D3: Pin 1 now at (5.00605, -4.6563806), Pin 2 now at (5.00605, -4.5264594)
+2025-03-09 14:05:41,100 - GencadParser - INFO - Swapped coordinates for diode L-D12: Pin 1 now at (2.761637923290307, -6.409149172781935), Pin 2 now at (2.7819620767096924, -6.537470827218065)
+2025-03-09 14:05:41,100 - GencadParser - INFO - Swapped coordinates for diode L-D20: Pin 1 now at (6.558039172781935, -7.000547923290308), Pin 2 now at (6.686360827218065, -7.020872076709693)
+2025-03-09 14:05:41,100 - GencadParser - INFO - Swapped coordinates for diode L-D17: Pin 1 now at (6.3308594, -6.68197), Pin 2 now at (6.4607806, -6.68197)
+2025-03-09 14:05:41,101 - GencadParser - INFO - Swapped coordinates for diode L-D14: Pin 1 now at (4.278590231690945, -6.17374473903626), Pin 2 now at (4.265009768309055, -6.04453526096374)
+2025-03-09 14:05:41,101 - GencadParser - INFO - Swapped coordinates for diode L-D15: Pin 1 now at (5.01983, -6.1307906), Pin 2 now at (5.01983, -6.0008694)
+2025-03-09 14:05:41,101 - GencadParser - INFO - Swapped coordinates for diode L-D2: Pin 1 now at (4.162450231690945, -4.7268947390362595), Pin 2 now at (4.148869768309055, -4.59768526096374)
+2025-03-09 14:05:41,102 - GencadParser - INFO - Swapped coordinates for diode L-D16: Pin 1 now at (5.5611694, -6.68591), Pin 2 now at (5.6910906, -6.68591)
+2025-03-09 14:05:41,102 - GencadParser - INFO - Swapped coordinates for diode L-D13: Pin 1 now at (3.5195179232903073, -6.310729172781935), Pin 2 now at (3.5398420767096925, -6.439050827218065)
+2025-03-09 14:05:41,102 - GencadParser - INFO - Swapped coordinates for diode L-D18: Pin 1 now at (5.5631394, -6.89063), Pin 2 now at (5.6930606, -6.89063)
+2025-03-09 14:05:41,102 - GencadParser - INFO - Swapped coordinates for diode L-D0: Pin 1 now at (2.6087320767096926, -5.458730827218065), Pin 2 now at (2.5884079232903074, -5.330409172781935)
+2025-03-09 14:05:41,103 - GencadParser - INFO - Swapped coordinates for diode L-D10: Pin 1 now at (5.79739, -5.9496906), Pin 2 now at (5.79739, -5.8197694)
+2025-03-09 14:05:41,103 - GencadParser - INFO - Swapped coordinates for diode L-D5: Pin 1 now at (6.3308594, -5.15835), Pin 2 now at (6.4607806, -5.15835)
+2025-03-09 14:05:41,103 - GencadParser - INFO - Calculated positions for 241 pins
+2025-03-09 14:05:41,105 - GencadParser - INFO - Exported 241 pins to F:\NIOKR\PCB\export\NIOKR2_pins.csv
+2025-03-09 14:05:41,107 - GencadParser - INFO - Exported 143 connections to F:\NIOKR\PCB\export\NIOKR2_connections.csv
+2025-03-09 14:05:41,109 - GencadParser - INFO - Exported 44 nets to F:\NIOKR\PCB\export\NIOKR2_netlist.csv
+2025-03-09 14:05:41,114 - GencadParser - INFO - Exported board outline with 1170 segments to F:\NIOKR\PCB\export\NIOKR2_board_outline.csv
+2025-03-09 14:05:41,115 - GencadParser - INFO - Found 111 connected pins out of 241 total pins
+2025-03-09 14:05:41,116 - GencadParser - INFO - Found 44 signals with connections
+2025-03-09 14:05:41,118 - GencadParser - INFO - Exported 241 pins to single Houdini-friendly CSV: F:\NIOKR\PCB\export\NIOKR2_houdini.csv
+2025-03-09 14:05:41,119 - GencadParser - INFO - GENCAD parsing completed successfully
+2025-03-09 14:11:27,240 - GencadParser - INFO - Starting GENCAD parser for file: .\NIOKR2.cad
+2025-03-09 14:11:27,241 - GencadParser - INFO - Using units: INCH
+2025-03-09 14:11:27,246 - GencadParser - INFO - Parsed board outline with 1170 points
+2025-03-09 14:11:27,248 - GencadParser - INFO - Parsed 17 shapes
+2025-03-09 14:11:27,251 - GencadParser - INFO - Parsed 46 components
+2025-03-09 14:11:27,253 - GencadParser - INFO - Parsed 44 signals
+2025-03-09 14:11:27,255 - GencadParser - INFO - Swapped coordinates for diode L-D11: Pin 1 now at (6.3308594, -5.92804), Pin 2 now at (6.4607806, -5.92804)
+2025-03-09 14:11:27,255 - GencadParser - INFO - Swapped coordinates for diode L-D6: Pin 1 now at (2.7170020767096927, -6.198890827218065), Pin 2 now at (2.6966779232903075, -6.070569172781935)
+2025-03-09 14:11:27,255 - GencadParser - INFO - Swapped coordinates for diode L-D8: Pin 1 now at (4.217570231690945, -5.40799473903626), Pin 2 now at (4.203989768309055, -5.2787852609637405)
+2025-03-09 14:11:27,256 - GencadParser - INFO - Swapped coordinates for diode L-D7: Pin 1 now at (3.4866920767096925, -6.070940827218065), Pin 2 now at (3.4663679232903073, -5.942619172781935)
+2025-03-09 14:11:27,256 - GencadParser - INFO - Swapped coordinates for diode L-D19: Pin 1 now at (6.4588106, -6.89457), Pin 2 now at (6.3288893999999996, -6.89457)
+2025-03-09 14:11:27,256 - GencadParser - INFO - Swapped coordinates for diode L-D4: Pin 1 now at (5.80723, -5.1918106), Pin 2 now at (5.80723, -5.0618894)
+2025-03-09 14:11:27,256 - GencadParser - INFO - Swapped coordinates for diode L-D1: Pin 1 now at (3.3689020767096927, -5.306360827218065), Pin 2 now at (3.3485779232903075, -5.1780391727819355)
+2025-03-09 14:11:27,257 - GencadParser - INFO - Swapped coordinates for diode L-D9: Pin 1 now at (5.01983, -5.3985106), Pin 2 now at (5.01983, -5.2685894)
+2025-03-09 14:11:27,257 - GencadParser - INFO - Swapped coordinates for diode L-D3: Pin 1 now at (5.00605, -4.6563806), Pin 2 now at (5.00605, -4.5264594)
+2025-03-09 14:11:27,257 - GencadParser - INFO - Swapped coordinates for diode L-D12: Pin 1 now at (2.761637923290307, -6.409149172781935), Pin 2 now at (2.7819620767096924, -6.537470827218065)
+2025-03-09 14:11:27,257 - GencadParser - INFO - Swapped coordinates for diode L-D20: Pin 1 now at (6.558039172781935, -7.000547923290308), Pin 2 now at (6.686360827218065, -7.020872076709693)
+2025-03-09 14:11:27,258 - GencadParser - INFO - Swapped coordinates for diode L-D17: Pin 1 now at (6.3308594, -6.68197), Pin 2 now at (6.4607806, -6.68197)
+2025-03-09 14:11:27,258 - GencadParser - INFO - Swapped coordinates for diode L-D14: Pin 1 now at (4.278590231690945, -6.17374473903626), Pin 2 now at (4.265009768309055, -6.04453526096374)
+2025-03-09 14:11:27,258 - GencadParser - INFO - Swapped coordinates for diode L-D15: Pin 1 now at (5.01983, -6.1307906), Pin 2 now at (5.01983, -6.0008694)
+2025-03-09 14:11:27,258 - GencadParser - INFO - Swapped coordinates for diode L-D2: Pin 1 now at (4.162450231690945, -4.7268947390362595), Pin 2 now at (4.148869768309055, -4.59768526096374)
+2025-03-09 14:11:27,259 - GencadParser - INFO - Swapped coordinates for diode L-D16: Pin 1 now at (5.5611694, -6.68591), Pin 2 now at (5.6910906, -6.68591)
+2025-03-09 14:11:27,259 - GencadParser - INFO - Swapped coordinates for diode L-D13: Pin 1 now at (3.5195179232903073, -6.310729172781935), Pin 2 now at (3.5398420767096925, -6.439050827218065)
+2025-03-09 14:11:27,259 - GencadParser - INFO - Swapped coordinates for diode L-D18: Pin 1 now at (5.5631394, -6.89063), Pin 2 now at (5.6930606, -6.89063)
+2025-03-09 14:11:27,260 - GencadParser - INFO - Swapped coordinates for diode L-D0: Pin 1 now at (2.6087320767096926, -5.458730827218065), Pin 2 now at (2.5884079232903074, -5.330409172781935)
+2025-03-09 14:11:27,260 - GencadParser - INFO - Swapped coordinates for diode L-D10: Pin 1 now at (5.79739, -5.9496906), Pin 2 now at (5.79739, -5.8197694)
+2025-03-09 14:11:27,260 - GencadParser - INFO - Swapped coordinates for diode L-D5: Pin 1 now at (6.3308594, -5.15835), Pin 2 now at (6.4607806, -5.15835)
+2025-03-09 14:11:27,261 - GencadParser - INFO - Calculated positions for 241 pins
+2025-03-09 14:11:27,263 - GencadParser - INFO - Exported 241 pins to F:\NIOKR\PCB\export\NIOKR2_pins.csv
+2025-03-09 14:11:27,265 - GencadParser - INFO - Exported 143 connections to F:\NIOKR\PCB\export\NIOKR2_connections.csv
+2025-03-09 14:11:27,267 - GencadParser - INFO - Exported 44 nets to F:\NIOKR\PCB\export\NIOKR2_netlist.csv
+2025-03-09 14:11:27,272 - GencadParser - INFO - Exported board outline with 1170 segments to F:\NIOKR\PCB\export\NIOKR2_board_outline.csv
+2025-03-09 14:11:27,273 - GencadParser - INFO - Found 111 connected pins out of 241 total pins
+2025-03-09 14:11:27,273 - GencadParser - INFO - Found 44 signals with connections
+2025-03-09 14:11:27,276 - GencadParser - INFO - Exported 241 pins to single Houdini-friendly CSV: F:\NIOKR\PCB\export\NIOKR2_houdini.csv
+2025-03-09 14:11:27,276 - GencadParser - INFO - GENCAD parsing completed successfully

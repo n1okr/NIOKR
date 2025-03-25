@@ -1,4 +1,4 @@
-24976154465595083
+24995317288348617
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69005,6 +69005,62 @@ threaded screw
 0
 4
 1
+NII
+BatteryPad
+
+
+0
+1
+1
+NII
+Diode_SOD123
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+NII
+MSK12C02
+
+
+0
+5
+4
+NII
+XIAO-nRF52840-cutout
+
+
+0
+14
+14
+NII
+keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led
+
+
+0
+4
+2
+NII
+keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor
+
+
+0
+4
+2
+NII
+mousebites_0.6-0.4
+
+
+0
+0
+0
+NII
+mousebites_0.6-0.4-topor
+
+
+0
+0
+0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -91818,6 +91874,20 @@ XIAO-nRF52840-SMD
 0
 22
 22
+Seeed Studio XIAO Series Library
+XIAO-nRF52840-SMD-custom
+
+
+0
+14
+14
+Seeed Studio XIAO Series Library
+XIAO-nRF52840-SMD-custom-offset
+
+
+0
+14
+14
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -100444,6 +100514,13 @@ keyswitch_cherrymx_hotswap_1u_rotary_encoder_ec12
 5
 kbd
 keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led
+
+
+0
+4
+2
+kbd
+keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led_custom
 
 
 0
