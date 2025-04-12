@@ -1590,10 +1590,6 @@
 		(uuid "1f6793a7-650b-4dbb-923f-b65ebbeb3102")
 	)
 	(no_connect
-		(at 113.03 199.39)
-		(uuid "2d57b5d2-0171-4122-97c8-d7c6a59173e2")
-	)
-	(no_connect
 		(at 99.06 185.42)
 		(uuid "2f91bd0f-a0aa-40fd-9295-948187886056")
 	)
@@ -1825,6 +1821,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 214.63) (xy 113.03 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22a04242-653b-4d9e-9901-5d23eae250d4")
+	)
+	(wire
+		(pts
 			(xy 308.61 74.93) (xy 308.61 100.33)
 		)
 		(stroke
@@ -1935,23 +1941,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 207.01) (xy 113.03 207.01)
+			(xy 118.11 207.01) (xy 113.03 207.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3735cf1d-5c4a-4c27-8f11-c164ab83e0f0")
-	)
-	(wire
-		(pts
-			(xy 66.04 210.82) (xy 71.12 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37753d6d-ffe0-4e97-965c-b6f0087bba97")
+		(uuid "353d71ed-10bc-4696-9397-71e52706f01b")
 	)
 	(wire
 		(pts
@@ -2032,26 +2028,6 @@
 			(type default)
 		)
 		(uuid "4ea3ccbb-cb8c-4077-8e21-e23c3918675e")
-	)
-	(wire
-		(pts
-			(xy 119.38 218.44) (xy 113.03 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "506db02f-4785-4254-b86e-4403d95bcd83")
-	)
-	(wire
-		(pts
-			(xy 119.38 210.82) (xy 113.03 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53b44dbc-f3ee-425e-af4e-70fd7cf7c767")
 	)
 	(wire
 		(pts
@@ -2275,6 +2251,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 203.2) (xy 113.03 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7de751e5-92da-4956-b06a-8369dba6086a")
+	)
+	(wire
+		(pts
 			(xy 359.41 138.43) (xy 341.63 138.43)
 		)
 		(stroke
@@ -2325,13 +2311,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 214.63) (xy 113.03 214.63)
+			(xy 66.04 207.01) (xy 71.12 207.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "928e16f0-3402-4564-bcf5-3618e4a5004c")
+		(uuid "932b7b98-4853-4fac-922d-d1652da37cb0")
 	)
 	(wire
 		(pts
@@ -2585,6 +2571,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 199.39) (xy 113.03 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ffa1a2-1265-44b0-9137-b16059137951")
+	)
+	(wire
+		(pts
 			(xy 328.93 113.03) (xy 316.23 113.03)
 		)
 		(stroke
@@ -2622,6 +2618,16 @@
 			(type default)
 		)
 		(uuid "d1400138-3652-4204-9ef7-476f7a981f92")
+	)
+	(wire
+		(pts
+			(xy 118.11 210.82) (xy 113.03 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4f52efe-1ae1-4b16-81ed-3b02797ea0fc")
 	)
 	(wire
 		(pts
@@ -2715,16 +2721,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 207.01) (xy 71.12 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e991dd3e-d029-4335-874a-0a8c0f57d1ce")
-	)
-	(wire
-		(pts
 			(xy 351.79 210.82) (xy 344.17 210.82)
 		)
 		(stroke
@@ -2765,6 +2761,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 218.44) (xy 113.03 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f097be00-78a5-40bd-b914-c98fc5fba90a")
+	)
+	(wire
+		(pts
 			(xy 297.18 207.01) (xy 302.26 207.01)
 		)
 		(stroke
@@ -2782,16 +2788,6 @@
 			(type default)
 		)
 		(uuid "f2e203f1-8c0c-4063-8b06-5550a0baf02e")
-	)
-	(wire
-		(pts
-			(xy 119.38 203.2) (xy 113.03 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f954f2fe-0d0e-48f5-b7b3-9640b80b10f0")
 	)
 	(wire
 		(pts
@@ -2815,17 +2811,17 @@
 	)
 	(global_label "L-ROW0"
 		(shape input)
-		(at 66.04 207.01 180)
+		(at 118.11 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "015d6392-6ae4-4f77-8f9a-8a123e93b280")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.8871 207.01 0)
+			(at 128.9571 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2903,7 +2899,7 @@
 	)
 	(global_label "L-ROW2"
 		(shape input)
-		(at 119.38 214.63 0)
+		(at 118.11 214.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2913,7 +2909,7 @@
 		)
 		(uuid "198758a7-b7c9-4795-8ca9-af822b9c44e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.2271 214.63 0)
+			(at 128.9571 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3145,7 +3141,7 @@
 	)
 	(global_label "L-ROW3"
 		(shape input)
-		(at 119.38 218.44 0)
+		(at 118.11 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3155,7 +3151,7 @@
 		)
 		(uuid "4f9e2e38-545a-4481-aa0a-d8cf81c1ff3e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.2271 218.44 0)
+			(at 128.9571 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3299,17 +3295,17 @@
 	)
 	(global_label "L-ROW1"
 		(shape input)
-		(at 66.04 210.82 180)
+		(at 118.11 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "798be186-1638-4661-b487-f382e7c79eb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.8871 210.82 0)
+			(at 128.9571 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3321,7 +3317,7 @@
 	)
 	(global_label "L-COL5"
 		(shape input)
-		(at 119.38 210.82 0)
+		(at 118.11 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3331,7 +3327,7 @@
 		)
 		(uuid "7bc9cb4c-9f21-44e5-a894-508fc07d541a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8038 210.82 0)
+			(at 128.5338 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3651,7 +3647,7 @@
 	)
 	(global_label "L-COL4"
 		(shape input)
-		(at 119.38 207.01 0)
+		(at 118.11 199.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3661,7 +3657,7 @@
 		)
 		(uuid "afe2c652-c0b4-4a69-8ddb-c0f925f9acae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8038 207.01 0)
+			(at 128.5338 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,17 +3735,17 @@
 	)
 	(global_label "L-COL3"
 		(shape input)
-		(at 119.38 203.2 0)
+		(at 66.04 207.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "c003c61d-7897-426f-bb84-36ede1ce9e11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8038 203.2 0)
+			(at 76.4638 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3984,7 +3980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 344.17 128.27 0)
 			(effects
 				(font
@@ -4052,7 +4048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 129.54 129.54 0)
 			(effects
 				(font
@@ -4120,7 +4116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -4189,7 +4185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 280.67 102.87 0)
 			(effects
 				(font
@@ -4346,7 +4342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -4752,7 +4748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -5068,7 +5064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 129.54 154.94 0)
 			(effects
 				(font
@@ -5314,7 +5310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 318.77 102.87 0)
 			(effects
 				(font
@@ -5383,7 +5379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 344.17 77.47 0)
 			(effects
 				(font
@@ -5539,7 +5535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 116.84 78.74 0)
 			(effects
 				(font
@@ -5696,7 +5692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 280.67 77.47 0)
 			(effects
 				(font
@@ -5765,7 +5761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 280.67 153.67 0)
 			(effects
 				(font
@@ -6166,7 +6162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -6479,7 +6475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -6880,7 +6876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 306.07 77.47 0)
 			(effects
 				(font
@@ -7037,7 +7033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 293.37 77.47 0)
 			(effects
 				(font
@@ -7106,7 +7102,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 344.17 102.87 0)
 			(effects
 				(font
@@ -7175,7 +7171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 318.77 77.47 0)
 			(effects
 				(font
@@ -7244,7 +7240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 293.37 102.87 0)
 			(effects
 				(font
@@ -7489,7 +7485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 91.44 104.14 0)
 			(effects
 				(font
@@ -7714,7 +7710,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 293.37 153.67 0)
 			(effects
 				(font
@@ -7782,7 +7778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 78.74 129.54 0)
 			(effects
 				(font
@@ -7850,7 +7846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -8097,7 +8093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 280.67 128.27 0)
 			(effects
 				(font
@@ -8254,7 +8250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 331.47 77.47 0)
 			(effects
 				(font
@@ -8499,7 +8495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 116.84 154.94 0)
 			(effects
 				(font
@@ -8568,7 +8564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 306.07 153.67 0)
 			(effects
 				(font
@@ -8904,7 +8900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 318.77 128.27 0)
 			(effects
 				(font
@@ -8973,7 +8969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 306.07 102.87 0)
 			(effects
 				(font
@@ -9198,7 +9194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 293.37 128.27 0)
 			(effects
 				(font
@@ -9267,7 +9263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 331.47 102.87 0)
 			(effects
 				(font
@@ -9423,7 +9419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 129.54 104.14 0)
 			(effects
 				(font
@@ -9491,7 +9487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -9559,7 +9555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 66.04 78.74 0)
 			(effects
 				(font
@@ -10024,7 +10020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 306.07 128.27 0)
 			(effects
 				(font
@@ -10534,7 +10530,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 66.04 104.14 0)
 			(effects
 				(font
@@ -10888,7 +10884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 91.44 129.54 0)
 			(effects
 				(font
@@ -10957,7 +10953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 331.47 128.27 0)
 			(effects
 				(font
@@ -11025,7 +11021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 129.54 78.74 0)
 			(effects
 				(font
@@ -11093,7 +11089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -11161,7 +11157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 104.14 78.74 0)
 			(effects
 				(font
@@ -11317,7 +11313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led"
+		(property "Footprint" "NII:keyswitch_chocv2"
 			(at 78.74 104.14 0)
 			(effects
 				(font

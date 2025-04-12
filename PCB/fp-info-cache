@@ -1,4 +1,4 @@
-24995317288348617
+24998807475554300
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69046,6 +69046,20 @@ keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led-topor
 
 0
 4
+2
+NII
+keyswitch_chocv2
+
+
+0
+2
+2
+NII
+keyswitch_chocv2_topor
+
+
+0
+2
 2
 NII
 mousebites_0.6-0.4

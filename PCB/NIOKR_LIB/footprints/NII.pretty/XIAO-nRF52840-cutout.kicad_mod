@@ -7,7 +7,7 @@
 		(at 21.05588 -3.76374 180)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "e3704fbf-9214-4145-a034-2e1f67eb47ba")
+		(uuid "42457161-b896-439e-a505-fd5c7caaa3cd")
 		(effects
 			(font
 				(size 0.78232 0.78232)
@@ -17,10 +17,10 @@
 		)
 	)
 	(property "Value" "XIAO-nRF52840-cutout"
-		(at 5.27588 -6.28824 180)
+		(at 12.02588 -6.24824 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0445a612-687f-45f1-bf9e-af16392a789a")
+		(uuid "d3421acb-871a-49b2-ad35-e07b4e6189fe")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7ddaa8e8-85fd-48f8-9a96-8f2784a067a6")
+		(uuid "59327ac2-ac63-4510-9ca9-a2df3f497b73")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5bcd3fe7-d750-4374-9efe-0b4fb8e64b65")
+		(uuid "a3e6be1a-8370-41d0-979d-6e6a6fa0dbf0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,6 +56,188 @@
 		)
 	)
 	(attr board_only)
+	(fp_text user "D2"
+		(at -13.25 -1.92 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "05282577-5f79-405d-ad41-44552651ac51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D3"
+		(at -13.25 0.62 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "490dc8d1-9099-4b36-bcb2-41bba6afefbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D6"
+		(at -13.25 8.24 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "53b77631-4bc5-4583-873d-73c1c3c6ee32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D4"
+		(at -13.25 3.16 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "5ca8c4a0-91da-4985-9e08-c8a8c6ee03ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D10"
+		(at 14.25 0.62 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "70ddefbd-d383-4530-9b87-06319dc998f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "D5"
+		(at -13.25 5.7 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "7f7e175c-1e8b-45b9-8843-0978d352e077")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D0"
+		(at -13.25 -7 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "83a9a027-b9dc-4ba6-a5a0-0cc6ac821914")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "D8"
+		(at 14.25 5.7 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "93603589-64cb-4512-989e-ffc6f0f37738")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "D7"
+		(at 14.25 8.24 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "a67ef638-fb22-4293-8992-b1f6613d160d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "D1"
+		(at -13.25 -4.46 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "be368143-7594-4bcf-9069-d3420a02c437")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 14.25 -4.46 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "c054f5f1-8b78-4966-9dce-b1bafb4dac7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "3V3"
+		(at 14.25 -1.92 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "d1332d8d-9d19-412b-84fc-f72229fb9f54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "D9"
+		(at 14.25 3.16 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "eb7597ac-28b4-488e-803e-053d4210249a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
+	(fp_text user "5V"
+		(at 14.25 -7 0)
+		(unlocked yes)
+		(layer "User.4")
+		(uuid "f71e8879-2977-4ace-b774-bbdb8e0ac1aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right bottom)
+		)
+	)
 	(pad "1" thru_hole roundrect
 		(at -9.2 -7.62)
 		(size 2 1.55)
@@ -127,34 +309,34 @@
 		(uuid "b55c2d98-f86b-408c-ae5a-3f5fb7c3fd11")
 	)
 	(pad "8" thru_hole roundrect
-		(at 9.2 -7.62)
+		(at 9.2 7.62)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "afc5ee41-7b9d-4c1e-9565-f76ee5efc280")
+		(uuid "95c6d204-6547-4b13-9eae-d8b53ceda055")
 	)
 	(pad "9" thru_hole roundrect
-		(at 9.2 -5.08)
+		(at 9.2 5.08)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "c90e619f-9197-4b91-8e71-cd57d3940b64")
+		(uuid "810c7129-ec06-40b9-9857-0dafe402ace4")
 	)
 	(pad "10" thru_hole roundrect
-		(at 9.2 -2.54)
+		(at 9.2 2.54)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "b6d8092e-68c0-42c5-8efc-250a12a4d30f")
+		(uuid "7198602d-1b28-4d95-b32d-2f5875cc56a7")
 	)
 	(pad "11" thru_hole roundrect
 		(at 9.2 0)
@@ -167,34 +349,34 @@
 		(uuid "37c2fd6c-0994-48a2-b025-81c23ec54fdd")
 	)
 	(pad "12" thru_hole roundrect
-		(at 9.2 2.54)
+		(at 9.2 -2.54)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "7198602d-1b28-4d95-b32d-2f5875cc56a7")
+		(uuid "b6d8092e-68c0-42c5-8efc-250a12a4d30f")
 	)
 	(pad "13" thru_hole roundrect
-		(at 9.2 5.08)
+		(at 9.2 -5.08)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "810c7129-ec06-40b9-9857-0dafe402ace4")
+		(uuid "c90e619f-9197-4b91-8e71-cd57d3940b64")
 	)
 	(pad "14" thru_hole roundrect
-		(at 9.2 7.62)
+		(at 9.2 -7.62)
 		(size 2 1.55)
 		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1612903226)
-		(uuid "95c6d204-6547-4b13-9eae-d8b53ceda055")
+		(uuid "afc5ee41-7b9d-4c1e-9565-f76ee5efc280")
 	)
 	(embedded_fonts no)
 	(model "${NIOKR_LIB}/3d/MCU.3dshapes/XIAO-nRF52840  v3.step"
