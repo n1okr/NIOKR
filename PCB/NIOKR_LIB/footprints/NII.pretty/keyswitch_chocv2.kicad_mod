@@ -58,8 +58,8 @@
 	)
 	(attr smd board_only)
 	(fp_circle
-		(center 3.5 -7.042893)
-		(end 4 -6.542893)
+		(center 3.4 -7.042893)
+		(end 3.9 -6.542893)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -104,17 +104,6 @@
 		(uuid "ed3ecb37-720a-4916-b39b-9ec0b4474053")
 	)
 	(embedded_fonts no)
-	(model "${NIOKR_LIB}/3d/Socket.3dshapes/Gateron-KS33-Socket.step"
-		(offset
-			(xyz 5 -8 -3.5)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 -0 -180)
-		)
-	)
 	(model "${NIOKR_LIB}/3d/Socket.3dshapes/choc.wrl"
 		(offset
 			(xyz 0 6 -3.5)
