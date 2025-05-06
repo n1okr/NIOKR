@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-03-09T15:44:24+03:00"
+    "CreationDate": "2025-04-29T13:23:45+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,30 +14,27 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 149.9561,
-      "Y": 103.2089
+      "X": 278.9557,
+      "Y": 108.7557
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
-    "Finish": "None"
+    "Finish": "None",
+    "Castellated": true
   },
   "DesignRules": [
     {
       "Layers": "Outer",
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
-      "TrackToTrack": 0.2
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.2
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "NIOKR-F_Adhesive.gbr",
-      "FileFunction": "Glue,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "NIOKR-B_Adhesive.gbr",
-      "FileFunction": "Glue,Bot",
+      "Path": "NIOKR-B_Cu.gbr",
+      "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     }
   ],

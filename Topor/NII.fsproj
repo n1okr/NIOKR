@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************-->
+<!--   File    : NII.fsproj            -->
+<!--   Format  : TopoR Project file    -->
+<!--   Version : 2                     -->
+<!--   Program : TopoR Lite 7.0.18699  -->
+<!--   Date    : Tuesday, May 06, 2025 -->
+<!--   Time    : 17:03                 -->
+<!--***********************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{D25A0637-3CDA-4FF6-B133-F9FE37A845C0}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\NII-kicad2topor-2.fsx" isopened="1" dateChange="2025-05-06 13:30:15"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_250506133412\NII-kicad2topor-2_4094-16s.fsb" isopened="0" dateChange="2025-05-06 13:36:18"/>
+         <File path=".\autoroute_250501224331\NII-kicad2topor_4617-42s_4796-44s.fsb" isopened="0" dateChange="2025-05-01 22:44:15"/>
+         <File path=".\autoroute_250501224614\NII-kicad2topor_4617-42s_4796-44s_4359-14s.fsb" isopened="0" dateChange="2025-05-01 22:46:34"/>
+         <File path=".\autoroute_250501225003\NII-kicad2topor_4617-42s_4796-44s_4359-14s_4708-14sa.fsb" isopened="0" dateChange="2025-05-01 22:50:20"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="F:\NIOKR\PCB\export\v2\NII-kicad2topor.dsn"/>
+         <Path name="F:\NIOKR\PCB\export\v2\NII-kicad2topor-2.dsn"/>
+      </Specctra>
+   </Import>
+</Project>

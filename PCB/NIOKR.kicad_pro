@@ -500,7 +500,7 @@
       "netlist": "",
       "plot": "export/gerbers/",
       "pos_files": "",
-      "specctra_dsn": "export/NIOKR-prod-offset.dsn",
+      "specctra_dsn": "export/v2/NII-kicad2topor-2.dsn",
       "step": "export/NIOKR.glb",
       "svg": "",
       "vrml": ""
