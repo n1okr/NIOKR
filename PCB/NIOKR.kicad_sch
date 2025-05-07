@@ -1582,6 +1582,10 @@
 		(uuid "00909719-82ce-41bf-a371-b8bc9172629c")
 	)
 	(no_connect
+		(at 71.12 210.82)
+		(uuid "052b6da9-a253-4935-917f-3afb75641627")
+	)
+	(no_connect
 		(at 96.52 229.87)
 		(uuid "0c240846-da72-4b15-856c-527861251776")
 	)
@@ -1608,6 +1612,10 @@
 	(no_connect
 		(at 320.04 226.06)
 		(uuid "45959855-cc89-49e2-859f-d2714fac5d0b")
+	)
+	(no_connect
+		(at 302.26 207.01)
+		(uuid "69456965-8084-4746-8f80-9ca942e8289e")
 	)
 	(no_connect
 		(at 344.17 191.77)
@@ -3976,7 +3984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 344.17 128.27 0)
 			(effects
 				(font
@@ -4044,7 +4052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 129.54 129.54 0)
 			(effects
 				(font
@@ -4112,7 +4120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -4181,7 +4189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 280.67 102.87 0)
 			(effects
 				(font
@@ -4338,7 +4346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -4744,7 +4752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -5060,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 129.54 154.94 0)
 			(effects
 				(font
@@ -5306,7 +5314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 318.77 102.87 0)
 			(effects
 				(font
@@ -5375,7 +5383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 344.17 77.47 0)
 			(effects
 				(font
@@ -5531,7 +5539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 116.84 78.74 0)
 			(effects
 				(font
@@ -5688,7 +5696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 280.67 77.47 0)
 			(effects
 				(font
@@ -5757,7 +5765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 280.67 153.67 0)
 			(effects
 				(font
@@ -6158,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -6471,7 +6479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -6872,7 +6880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 306.07 77.47 0)
 			(effects
 				(font
@@ -7029,7 +7037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 293.37 77.47 0)
 			(effects
 				(font
@@ -7098,7 +7106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 344.17 102.87 0)
 			(effects
 				(font
@@ -7167,7 +7175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 318.77 77.47 0)
 			(effects
 				(font
@@ -7236,7 +7244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 293.37 102.87 0)
 			(effects
 				(font
@@ -7481,7 +7489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 91.44 104.14 0)
 			(effects
 				(font
@@ -7706,7 +7714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 293.37 153.67 0)
 			(effects
 				(font
@@ -7774,7 +7782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 78.74 129.54 0)
 			(effects
 				(font
@@ -7842,7 +7850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -8089,7 +8097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 280.67 128.27 0)
 			(effects
 				(font
@@ -8246,7 +8254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 331.47 77.47 0)
 			(effects
 				(font
@@ -8491,7 +8499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 116.84 154.94 0)
 			(effects
 				(font
@@ -8560,7 +8568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 306.07 153.67 0)
 			(effects
 				(font
@@ -8896,7 +8904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 318.77 128.27 0)
 			(effects
 				(font
@@ -8965,7 +8973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 306.07 102.87 0)
 			(effects
 				(font
@@ -9190,7 +9198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 293.37 128.27 0)
 			(effects
 				(font
@@ -9259,7 +9267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 331.47 102.87 0)
 			(effects
 				(font
@@ -9415,7 +9423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 129.54 104.14 0)
 			(effects
 				(font
@@ -9483,7 +9491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -9551,7 +9559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 66.04 78.74 0)
 			(effects
 				(font
@@ -10016,7 +10024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 306.07 128.27 0)
 			(effects
 				(font
@@ -10526,7 +10534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 66.04 104.14 0)
 			(effects
 				(font
@@ -10880,7 +10888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 91.44 129.54 0)
 			(effects
 				(font
@@ -10949,7 +10957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 331.47 128.27 0)
 			(effects
 				(font
@@ -11017,7 +11025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 129.54 78.74 0)
 			(effects
 				(font
@@ -11085,7 +11093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -11153,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 104.14 78.74 0)
 			(effects
 				(font
@@ -11309,7 +11317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2"
+		(property "Footprint" "NII:keyswitch_chocv2_topor"
 			(at 78.74 104.14 0)
 			(effects
 				(font

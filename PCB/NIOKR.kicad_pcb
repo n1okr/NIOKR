@@ -9158,7 +9158,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "3d9d08ce-55f8-446b-ad31-42ddcdc214d0")
-		(at -70.255065 33.344116 -13.5)
+		(at -70.255065 33.344116 166.5)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "L-D19"
@@ -9219,24 +9219,14 @@
 		(sheetfile "NIOKR.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -0.5 0.7)
-			(end -0.5 -0.7)
+			(start 0.4 -0.7)
+			(end -0.5 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f917c88b-7b81-4cbd-a8a6-9e6ce736edcb")
-		)
-		(fp_line
-			(start -0.5 0)
-			(end 0.4 0.7)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "984fd832-e20d-4e07-97aa-7c513bc90238")
+			(uuid "7f0aa707-09aa-4e16-9a6d-c0a029399068")
 		)
 		(fp_line
 			(start 0.4 0.7)
@@ -9249,17 +9239,27 @@
 			(uuid "cfe5c69f-9216-4a84-a113-3c64205fb47f")
 		)
 		(fp_line
-			(start 0.4 -0.7)
-			(end -0.5 0)
+			(start -0.5 0)
+			(end 0.4 0.7)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7f0aa707-09aa-4e16-9a6d-c0a029399068")
+			(uuid "984fd832-e20d-4e07-97aa-7c513bc90238")
+		)
+		(fp_line
+			(start -0.5 0.7)
+			(end -0.5 -0.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f917c88b-7b81-4cbd-a8a6-9e6ce736edcb")
 		)
 		(pad "1" smd roundrect
-			(at -1.7 0 346.5)
+			(at -1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)
@@ -9269,7 +9269,7 @@
 			(uuid "2b345c0e-bde1-4835-b6a5-d2feb16e9ae3")
 		)
 		(pad "2" smd roundrect
-			(at 1.7 0 346.5)
+			(at 1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)
@@ -11060,7 +11060,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "86e3f68d-0208-432f-85ca-ea92a02ce812")
-		(at -52.266222 37.662855 -13.5)
+		(at -52.266222 37.662855 166.5)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "L-D20"
@@ -11121,24 +11121,14 @@
 		(sheetfile "NIOKR.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -0.5 0.7)
-			(end -0.5 -0.7)
+			(start 0.4 -0.7)
+			(end -0.5 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f6c94643-a4a2-4d66-a0da-da963347ee4d")
-		)
-		(fp_line
-			(start -0.5 0)
-			(end 0.4 0.7)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "63b4820a-821e-43c2-bfc0-76eb2c40087e")
+			(uuid "6fa20ac8-198f-4ff3-bee1-020e23ad0cc0")
 		)
 		(fp_line
 			(start 0.4 0.7)
@@ -11151,17 +11141,27 @@
 			(uuid "c113d0a8-8e09-40d9-81ea-2304df7eec7f")
 		)
 		(fp_line
-			(start 0.4 -0.7)
-			(end -0.5 0)
+			(start -0.5 0)
+			(end 0.4 0.7)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6fa20ac8-198f-4ff3-bee1-020e23ad0cc0")
+			(uuid "63b4820a-821e-43c2-bfc0-76eb2c40087e")
+		)
+		(fp_line
+			(start -0.5 0.7)
+			(end -0.5 -0.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f6c94643-a4a2-4d66-a0da-da963347ee4d")
 		)
 		(pad "1" smd roundrect
-			(at -1.7 0 346.5)
+			(at -1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)
@@ -11171,7 +11171,7 @@
 			(uuid "4fa1cf78-a127-42fc-9fca-d6d80da4ab06")
 		)
 		(pad "2" smd roundrect
-			(at 1.7 0 346.5)
+			(at 1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)
@@ -12978,7 +12978,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "cf624500-0ac0-4739-b19d-b77d914a13bd")
-		(at -88.243911 29.025376 -13.5)
+		(at -88.243911 29.025376 166.5)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "L-D18"
@@ -13039,24 +13039,14 @@
 		(sheetfile "NIOKR.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -0.5 0.7)
-			(end -0.5 -0.7)
+			(start 0.4 -0.7)
+			(end -0.5 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c0656e04-ce19-4827-bb41-11b2be29e2ba")
-		)
-		(fp_line
-			(start -0.5 0)
-			(end 0.4 0.7)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "9d184d07-20c0-41ab-8e88-21bb6e513ab3")
+			(uuid "c6da3ab7-c17e-4696-aa89-de92a8bbc322")
 		)
 		(fp_line
 			(start 0.4 0.7)
@@ -13069,17 +13059,27 @@
 			(uuid "ad1a3098-8701-45ff-9db2-a380e74b67c0")
 		)
 		(fp_line
-			(start 0.4 -0.7)
-			(end -0.5 0)
+			(start -0.5 0)
+			(end 0.4 0.7)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c6da3ab7-c17e-4696-aa89-de92a8bbc322")
+			(uuid "9d184d07-20c0-41ab-8e88-21bb6e513ab3")
+		)
+		(fp_line
+			(start -0.5 0.7)
+			(end -0.5 -0.7)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c0656e04-ce19-4827-bb41-11b2be29e2ba")
 		)
 		(pad "1" smd roundrect
-			(at -1.7 0 346.5)
+			(at -1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)
@@ -13089,7 +13089,7 @@
 			(uuid "d695d954-4207-450e-9024-df9a42bb86ea")
 		)
 		(pad "2" smd roundrect
-			(at 1.7 0 346.5)
+			(at 1.7 0 166.5)
 			(size 1.8 1.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1666666667)

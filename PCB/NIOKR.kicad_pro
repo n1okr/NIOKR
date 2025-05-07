@@ -498,7 +498,7 @@
       "gencad": "export/NIOKR2.cad",
       "idf": "export/NIOKR.emn",
       "netlist": "",
-      "plot": "export/gerbers/",
+      "plot": "export/dxf/",
       "pos_files": "",
       "specctra_dsn": "export/v2/NII-kicad2topor-2.dsn",
       "step": "export/NIOKR.glb",
