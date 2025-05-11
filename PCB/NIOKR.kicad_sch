@@ -3984,7 +3984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 344.17 128.27 0)
 			(effects
 				(font
@@ -4052,7 +4052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 129.54 129.54 0)
 			(effects
 				(font
@@ -4120,7 +4120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -4189,7 +4189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 280.67 102.87 0)
 			(effects
 				(font
@@ -4346,7 +4346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -4752,7 +4752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 104.14 129.54 0)
 			(effects
 				(font
@@ -5068,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 129.54 154.94 0)
 			(effects
 				(font
@@ -5314,7 +5314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 318.77 102.87 0)
 			(effects
 				(font
@@ -5383,7 +5383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 344.17 77.47 0)
 			(effects
 				(font
@@ -5539,7 +5539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 116.84 78.74 0)
 			(effects
 				(font
@@ -5696,7 +5696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 280.67 77.47 0)
 			(effects
 				(font
@@ -5765,7 +5765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 280.67 153.67 0)
 			(effects
 				(font
@@ -6166,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -6479,7 +6479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -6880,7 +6880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 306.07 77.47 0)
 			(effects
 				(font
@@ -7037,7 +7037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 293.37 77.47 0)
 			(effects
 				(font
@@ -7106,7 +7106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 344.17 102.87 0)
 			(effects
 				(font
@@ -7175,7 +7175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 318.77 77.47 0)
 			(effects
 				(font
@@ -7244,7 +7244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 293.37 102.87 0)
 			(effects
 				(font
@@ -7489,7 +7489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 91.44 104.14 0)
 			(effects
 				(font
@@ -7714,7 +7714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 293.37 153.67 0)
 			(effects
 				(font
@@ -7782,7 +7782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 78.74 129.54 0)
 			(effects
 				(font
@@ -7850,7 +7850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -8097,7 +8097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 280.67 128.27 0)
 			(effects
 				(font
@@ -8254,7 +8254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 331.47 77.47 0)
 			(effects
 				(font
@@ -8499,7 +8499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 116.84 154.94 0)
 			(effects
 				(font
@@ -8568,7 +8568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 306.07 153.67 0)
 			(effects
 				(font
@@ -8904,7 +8904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 318.77 128.27 0)
 			(effects
 				(font
@@ -8973,7 +8973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 306.07 102.87 0)
 			(effects
 				(font
@@ -9198,7 +9198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 293.37 128.27 0)
 			(effects
 				(font
@@ -9267,7 +9267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 331.47 102.87 0)
 			(effects
 				(font
@@ -9423,7 +9423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 129.54 104.14 0)
 			(effects
 				(font
@@ -9491,7 +9491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -9559,7 +9559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 66.04 78.74 0)
 			(effects
 				(font
@@ -10024,7 +10024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 306.07 128.27 0)
 			(effects
 				(font
@@ -10534,7 +10534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 66.04 104.14 0)
 			(effects
 				(font
@@ -10888,7 +10888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 91.44 129.54 0)
 			(effects
 				(font
@@ -10957,7 +10957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 331.47 128.27 0)
 			(effects
 				(font
@@ -11025,7 +11025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 129.54 78.74 0)
 			(effects
 				(font
@@ -11093,7 +11093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -11161,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 104.14 78.74 0)
 			(effects
 				(font
@@ -11317,7 +11317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NII:keyswitch_chocv2_topor"
+		(property "Footprint" "NII:keyswitch_choc12-topor"
 			(at 78.74 104.14 0)
 			(effects
 				(font

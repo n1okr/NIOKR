@@ -1,4 +1,4 @@
-24754784310808844
+24758278283301576
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68550,6 +68550,20 @@ XIAO-nRF52840-cutout-plain
 0
 14
 14
+NII
+keyswitch_choc12
+
+
+0
+2
+2
+NII
+keyswitch_choc12-topor
+
+
+0
+2
+2
 NII
 keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led
 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--******************************************-->
+<!--   File    : NII-kicad2topor-choc1.fsproj -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18699         -->
+<!--   Date    : Sunday, May 11, 2025         -->
+<!--   Time    : 22:46                        -->
+<!--******************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{E8B9026D-6CFF-471B-A277-908582208E11}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\NII-kicad2topor-choc1.fsx" isopened="1" dateChange="2025-05-11 21:33:44"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3225-97sa.fsb" isopened="0" dateChange="2025-05-11 21:49:40"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3231-95sa.fsb" isopened="0" dateChange="2025-05-11 21:54:17"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3252-91sa.fsb" isopened="0" dateChange="2025-05-11 21:55:01"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3658-31sa.fsb" isopened="0" dateChange="2025-05-11 21:55:10"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3818-21sa.fsb" isopened="0" dateChange="2025-05-11 21:55:33"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3899-18sa.fsb" isopened="0" dateChange="2025-05-11 21:55:06"/>
+         <File path=".\autoroute_250511213751\NII-kicad2topor-choc1_3903-19sa.fsb" isopened="0" dateChange="2025-05-11 21:40:30"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_3964-17sa.fsb" isopened="0" dateChange="2025-05-11 21:51:27"/>
+         <File path=".\autoroute_250511214145\NII-kicad2topor-choc1_4075-16sa.fsb" isopened="0" dateChange="2025-05-11 21:51:34"/>
+      </Section>
+   </Documents>
+</Project>

@@ -500,7 +500,7 @@
       "netlist": "",
       "plot": "export/dxf/",
       "pos_files": "",
-      "specctra_dsn": "export/v2/NII-kicad2topor-2.dsn",
+      "specctra_dsn": "export/v2/NII-kicad2topor-3.dsn",
       "step": "export/NIOKR.glb",
       "svg": "",
       "vrml": ""
