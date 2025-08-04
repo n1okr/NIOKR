@@ -1,4 +1,4 @@
-24758278778224671
+24770565225300698
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68516,6 +68516,13 @@ threaded screw
 4
 1
 NII
+Badge
+
+
+0
+0
+0
+NII
 BatteryPad
 
 
@@ -68530,12 +68537,40 @@ Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 2
 2
 NII
+Front info
+
+
+0
+0
+0
+NII
+Info
+
+
+0
+0
+0
+NII
+Info_1
+
+
+0
+0
+0
+NII
 MSK12C02
 
 
 0
 5
 4
+NII
+RST
+
+
+0
+0
+0
 NII
 XIAO-nRF52840-cutout
 
@@ -68593,6 +68628,13 @@ keyswitch_chocv2_topor
 2
 2
 NII
+madein
+
+
+0
+0
+0
+NII
 mousebites_0.6-0.4
 
 
@@ -68601,6 +68643,13 @@ mousebites_0.6-0.4
 0
 NII
 mousebites_0.6-0.4-topor
+
+
+0
+0
+0
+NII
+star
 
 
 0
